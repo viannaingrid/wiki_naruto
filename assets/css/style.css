@@ -8,6 +8,7 @@
 header {
   background-color: #e25814;
   text-align: center;
+  background: url("https://img.freepik.com/vetores-gratis/papel-de-parede-de-estilo-comico-de-design-plano_23-2148797740.jpg?w=1380&t=st=1727919278~exp=1727919878~hmac=0a0574c596dbd42eb3bc9def1796b4e348d05824e50358a7a8f592e869516e81");
 }
 
 h1 {
@@ -112,6 +113,7 @@ figure {
 
 .tecnicas {
   background-color: #b05a2f;
+  padding-bottom: 55px;
 }
 
 .tecnicas-title {
@@ -120,4 +122,11 @@ figure {
   font-size: 35px;
   padding-top: 55px;
   margin-top: 55px;
+  margin-bottom: 30px;
+}
+
+footer {
+  margin-top: 60px;
+  margin-bottom: 30px;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
