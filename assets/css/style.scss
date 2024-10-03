@@ -2,4 +2,124 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #e25814;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color:#fef7ee;
+    font-style: italic
+}
+
+nav {
+    text-align: center;
+    padding: 25px;
+}
+li {
+    display: inline;
+    padding-left: 150px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color:#fef7ee;
+}
+
+a:hover {
+    color:#fef7ee;
+    font-size: 20px;
+    padding: 150px;
+    transform: 3s;
+}
+
+.sobre {
+    margin: 15px;
+    padding-top: 25px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.geral {
+    background-color: #db9652;
+}
+
+.manga_naruto{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.mapa {
+    width: 500px;
+    height: auto;
+}
+
+figcaption{
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+article {
+    display: inline-block;
+    padding-left: 100px;
+    img{
+        width: 200px;
+        height: auto;
+    }
+}
+
+.personagens {
+    background-color: #411409;
+    padding: 25px;
+    color: #fef7ee;
+    font-style: italic;
+}
+
+figure{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 45px;
+
+}
+
+.sasuke {
+    width: 130px;
+}
+
+.kakashi {
+    width: 250px;
+    margin-left: 25px;
+}
+
+
+.tecnicas {
+    background-color: #b05a2f;
+}
+
+
+.tecnicas-title {
+    color: #fef7ee;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 55px;
+    margin-top: 55px;
 }
